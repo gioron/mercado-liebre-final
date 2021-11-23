@@ -182,7 +182,7 @@ article:hover {
 }
 
 article:hover i{
-    transform: rotate(-360deg);
+    transform: rotate(360deg);
 }
 
 /*------------------------registro-------------------------------*/
