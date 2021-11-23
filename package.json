@@ -1,7 +1,7 @@
 {
   "name": "mercadoliebre",
   "version": "1.0.0",
-  "description": "",
+  "description": "acces point : app.json;\r puerto: 3030;",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,5 +12,13 @@
   "dependencies": {
     "express": "^4.17.1",
     "nodemon": "^2.0.14"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gioron/mercado-liebre-final.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gioron/mercado-liebre-final/issues"
+  },
+  "homepage": "https://github.com/gioron/mercado-liebre-final#readme"
 }
